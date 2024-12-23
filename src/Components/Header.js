@@ -19,7 +19,7 @@ const Header = ({ onLogout }) => {
         <img src="/logo.png" alt="Logo" />
       </div>
       <div className="site-title">
-        <h1>Film Analysis Lounge</h1>
+        <h1>Krepšinio komandų rungtynių forumas</h1>
       </div>
       <nav className={isMenuActive ? 'active' : ''}>
         <div className="hamburger" onClick={toggleMenu}>
@@ -27,9 +27,7 @@ const Header = ({ onLogout }) => {
         </div>
         <ul className={isMenuActive ? 'show-menu' : ''}>
           <li><a href="/" onClick={handleMenuClick}>Home</a></li>
-          <li><a href="/about" onClick={handleMenuClick}>About</a></li>
-          <li><a href="/services" onClick={handleMenuClick}>Services</a></li>
-          <li><a href="/contact" onClick={handleMenuClick}>Contact</a></li>
+         
         </ul>
       </nav>
       <button className="logout-btn" onClick={onLogout}>Logout</button>

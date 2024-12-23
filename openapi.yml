@@ -3,7 +3,7 @@ info:
   title: API Title
   version: '1.0'
 servers:
-  - url: https://localhost:5133/api
+  - url: https://localhost:5300/api
 paths:
   /topics:
     get:
