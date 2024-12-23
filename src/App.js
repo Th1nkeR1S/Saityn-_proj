@@ -9,7 +9,7 @@ import { Route, Routes, useNavigate } from 'react-router-dom';
 import Login from './Pages/Login';
 
 const axiosInstance = axios.create({
-    baseURL: 'https://localhost:5133/api',
+    baseURL: 'https://sea-turtle-app-b64z2.ondigitalocean.app/api',
     headers: {
         'Authorization': `Bearer ${localStorage.getItem('accessToken')}`,
         'Content-Type': 'application/json',
