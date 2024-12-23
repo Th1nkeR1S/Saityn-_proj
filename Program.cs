@@ -94,7 +94,8 @@ public class Program
         {
             options.AddDefaultPolicy(policy =>
             {
-                policy.WithOrigins("http://localhost:3000","https://urchin-app-dpbse.ondigitalocean.app","https://localhost:5133").AllowAnyHeader().AllowAnyMethod();
+                policy.WithOrigins("http://localhost:3000","https://sea-turtle-app-b64z2.ondigitalocean.app","https://localhost:5133").AllowAnyHeader().AllowAnyMethod();
+                
             });
         });
 
