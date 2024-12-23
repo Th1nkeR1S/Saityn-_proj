@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\airid\\OneDrive\\Stalinis kompiuteris\\asd\\sf\\my-app\\ApiProjektas.csproj": {}
+    "C:\\Users\\airid\\OneDrive\\Dokumenty\\GitHub\\Saityn-_proj\\ApiProjektas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\airid\\OneDrive\\Stalinis kompiuteris\\asd\\sf\\my-app\\ApiProjektas.csproj": {
+    "C:\\Users\\airid\\OneDrive\\Dokumenty\\GitHub\\Saityn-_proj\\ApiProjektas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\airid\\OneDrive\\Stalinis kompiuteris\\asd\\sf\\my-app\\ApiProjektas.csproj",
+        "projectUniqueName": "C:\\Users\\airid\\OneDrive\\Dokumenty\\GitHub\\Saityn-_proj\\ApiProjektas.csproj",
         "projectName": "ApiProjektas",
-        "projectPath": "C:\\Users\\airid\\OneDrive\\Stalinis kompiuteris\\asd\\sf\\my-app\\ApiProjektas.csproj",
+        "projectPath": "C:\\Users\\airid\\OneDrive\\Dokumenty\\GitHub\\Saityn-_proj\\ApiProjektas.csproj",
         "packagesPath": "C:\\Users\\airid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\airid\\OneDrive\\Stalinis kompiuteris\\asd\\sf\\my-app\\obj\\",
+        "outputPath": "C:\\Users\\airid\\OneDrive\\Dokumenty\\GitHub\\Saityn-_proj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\airid\\AppData\\Roaming\\NuGet\\NuGet.Config",

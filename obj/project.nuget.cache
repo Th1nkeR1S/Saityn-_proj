@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yy9CcaOx9Oo=",
+  "dgSpecHash": "L35WnHEotKg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\airid\\OneDrive\\Stalinis kompiuteris\\asd\\sf\\my-app\\ApiProjektas.csproj",
+  "projectFilePath": "C:\\Users\\airid\\OneDrive\\Dokumenty\\GitHub\\Saityn-_proj\\ApiProjektas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\airid\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\airid\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
